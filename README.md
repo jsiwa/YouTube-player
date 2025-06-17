@@ -2,7 +2,7 @@
 
 这是一个使用原生 HTML, CSS 和 JavaScript 构建的现代化、功能丰富的视频播放器。它模仿了 YouTube 的设计和交互体验，并集成了 HLS.js 以支持自适应流媒体播放。整个项目是独立的，仅需一个 HTML 文件即可运行，并使用了 Tailwind CSS 进行样式设计。
 
-![播放器预览](https://placehold.co/900x506/000000/ffffff?text=播放器界面预览)
+![播放器预览](./screenshot.png)
 *(提示: 您可以将此图片替换为您自己播放器的截图)*
 
 ---
